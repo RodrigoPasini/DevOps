@@ -2,7 +2,7 @@ name: Continuous Delivery
 on:
   push:
     branches:
-      - main # ou qualquer outra branch que você deseja monitorar
+      - main # ou qualquer outra branch
       
 jobs:
   deliver:

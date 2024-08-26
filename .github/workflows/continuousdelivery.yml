@@ -1,8 +1,9 @@
-name: Continuous Delivery
 on:
   push:
     branches:
       - main # ou qualquer outra branch
+name: Continuous Delivery
+
       
 jobs:
   deliver:
